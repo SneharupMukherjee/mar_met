@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Analyst Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main>
+    <h1>AI Analyst Interface</h1>
+    <section>
+      <h2>Ask your data</h2>
+      <p>Restricted to KPI_DASHBOARD, INSIGHTS, WEEKLY_REPORTS fields.</p>
+      <input id="question" placeholder="Type a canonical prompt" />
+      <button id="askBtn">Ask</button>
+      <pre id="qaResponse"></pre>
+    </section>
+
+    <section>
+      <h2>Insight Cards (INSIGHTS)</h2>
+      <div id="insights" class="grid"></div>
+    </section>
+
+    <section>
+      <h2>Weekly Reports (WEEKLY_REPORTS)</h2>
+      <div id="reports" class="grid"></div>
+    </section>
+  </main>
+  <script type="module" src="./ui.js"></script>
+</body>
+</html>
