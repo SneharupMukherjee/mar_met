@@ -1,9 +1,11 @@
-import { DashboardPage } from '@/components/DashboardPage';
-
 export default async function CaseStudyPage() {
   return (
-    <DashboardPage title="Case Study: The TGE That Didn't Flop" description="Narrative summary of the project storyline.">
-      <div className="prose prose-slate max-w-4xl bg-white p-8 border rounded-lg shadow-sm mt-6">
+    <section className="space-y-5">
+      <header>
+        <h2 className="text-2xl font-semibold">Case Study: The TGE That Didn&apos;t Flop</h2>
+        <p className="text-sm text-slate-300">Narrative summary of the project storyline.</p>
+      </header>
+      <div className="prose prose-slate mt-6 max-w-4xl rounded-lg border bg-white p-8 shadow-sm">
         <h3>Act 1 (T–45 to T–21): The Reality Check</h3>
         <p>
           Initial excitement ran high as Meta Prospecting Video drove massive reach. However, an early peek at the funnel revealed impressions were merely hype. While CTR was stable, the `wallet_connect_rate` flatlined.
@@ -27,6 +29,6 @@ export default async function CaseStudyPage() {
           Instead of guessing, the team routed decisions through the command center. Our experiment on the checkout CTA (`EXP-CTA-001`) yielded a 16% uplift in wallet connections right when traffic peaked, successfully capturing the pent-up intent. By launch, the retargeting engine converted &quot;tourists&quot; into actual participants.
         </p>
       </div>
-    </DashboardPage>
+    </section>
   );
 }
