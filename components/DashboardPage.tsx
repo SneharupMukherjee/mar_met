@@ -1,7 +1,16 @@
 import { getMarketingData, summarizeData } from '@/lib/data/client';
 import { DataChart } from '@/components/DataChart';
+import { ReactNode } from 'react';
 
-export async function DashboardPage({ title, description }: { title: string; description: string }) {
+export async function DashboardPage({
+  title,
+  description,
+  children
+}: {
+  title: string;
+  description: string;
+  children?: ReactNode;
+}) {
   const data = await getMarketingData();
   const summary = summarizeData(data);
 
@@ -28,6 +37,7 @@ export async function DashboardPage({ title, description }: { title: string; des
       <div className="card">
         <DataChart data={data} />
       </div>
+      {children}
     </section>
   );
 }
