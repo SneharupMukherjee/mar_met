@@ -1,0 +1,4322 @@
+[
+  {
+    "date": "2026-01-01",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 312,
+    "clicks": 437,
+    "conversions": 13,
+    "revenue": 1170
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 332,
+    "clicks": 465,
+    "conversions": 16,
+    "revenue": 1440
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 352,
+    "clicks": 493,
+    "conversions": 20,
+    "revenue": 1800
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 372,
+    "clicks": 521,
+    "conversions": 23,
+    "revenue": 2070
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 382,
+    "clicks": 573,
+    "conversions": 17,
+    "revenue": 1785
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 402,
+    "clicks": 603,
+    "conversions": 21,
+    "revenue": 2205
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 422,
+    "clicks": 633,
+    "conversions": 25,
+    "revenue": 2625
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 442,
+    "clicks": 663,
+    "conversions": 30,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 452,
+    "clicks": 723,
+    "conversions": 22,
+    "revenue": 2640
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 472,
+    "clicks": 755,
+    "conversions": 26,
+    "revenue": 3120
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 492,
+    "clicks": 787,
+    "conversions": 31,
+    "revenue": 3720
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 512,
+    "clicks": 819,
+    "conversions": 37,
+    "revenue": 4440
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 522,
+    "clicks": 887,
+    "conversions": 27,
+    "revenue": 3645
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 542,
+    "clicks": 921,
+    "conversions": 32,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 562,
+    "clicks": 955,
+    "conversions": 38,
+    "revenue": 5130
+  },
+  {
+    "date": "2026-01-01",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 582,
+    "clicks": 989,
+    "conversions": 45,
+    "revenue": 6075
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 324,
+    "clicks": 454,
+    "conversions": 14,
+    "revenue": 1260
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 344,
+    "clicks": 482,
+    "conversions": 17,
+    "revenue": 1530
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 364,
+    "clicks": 510,
+    "conversions": 20,
+    "revenue": 1800
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 384,
+    "clicks": 538,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 394,
+    "clicks": 591,
+    "conversions": 18,
+    "revenue": 1890
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 414,
+    "clicks": 621,
+    "conversions": 22,
+    "revenue": 2310
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 434,
+    "clicks": 651,
+    "conversions": 26,
+    "revenue": 2730
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 454,
+    "clicks": 681,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 464,
+    "clicks": 742,
+    "conversions": 22,
+    "revenue": 2640
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 484,
+    "clicks": 774,
+    "conversions": 27,
+    "revenue": 3240
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 504,
+    "clicks": 806,
+    "conversions": 32,
+    "revenue": 3840
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 524,
+    "clicks": 838,
+    "conversions": 38,
+    "revenue": 4560
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 534,
+    "clicks": 908,
+    "conversions": 27,
+    "revenue": 3645
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 554,
+    "clicks": 942,
+    "conversions": 33,
+    "revenue": 4455
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 574,
+    "clicks": 976,
+    "conversions": 39,
+    "revenue": 5265
+  },
+  {
+    "date": "2026-01-02",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 594,
+    "clicks": 1010,
+    "conversions": 45,
+    "revenue": 6075
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 336,
+    "clicks": 470,
+    "conversions": 14,
+    "revenue": 1260
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 356,
+    "clicks": 498,
+    "conversions": 17,
+    "revenue": 1530
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 376,
+    "clicks": 526,
+    "conversions": 21,
+    "revenue": 1890
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 396,
+    "clicks": 554,
+    "conversions": 25,
+    "revenue": 2250
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 406,
+    "clicks": 609,
+    "conversions": 18,
+    "revenue": 1890
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 426,
+    "clicks": 639,
+    "conversions": 22,
+    "revenue": 2310
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 446,
+    "clicks": 669,
+    "conversions": 27,
+    "revenue": 2835
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 466,
+    "clicks": 699,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 476,
+    "clicks": 762,
+    "conversions": 23,
+    "revenue": 2760
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 496,
+    "clicks": 794,
+    "conversions": 28,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 516,
+    "clicks": 826,
+    "conversions": 33,
+    "revenue": 3960
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 536,
+    "clicks": 858,
+    "conversions": 39,
+    "revenue": 4680
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 546,
+    "clicks": 928,
+    "conversions": 28,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 566,
+    "clicks": 962,
+    "conversions": 34,
+    "revenue": 4590
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 586,
+    "clicks": 996,
+    "conversions": 40,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-03",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 606,
+    "clicks": 1030,
+    "conversions": 46,
+    "revenue": 6210
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 348,
+    "clicks": 487,
+    "conversions": 15,
+    "revenue": 1350
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 368,
+    "clicks": 515,
+    "conversions": 18,
+    "revenue": 1620
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 388,
+    "clicks": 543,
+    "conversions": 22,
+    "revenue": 1980
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 408,
+    "clicks": 571,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 418,
+    "clicks": 627,
+    "conversions": 19,
+    "revenue": 1995
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 438,
+    "clicks": 657,
+    "conversions": 23,
+    "revenue": 2415
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 458,
+    "clicks": 687,
+    "conversions": 27,
+    "revenue": 2835
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 478,
+    "clicks": 717,
+    "conversions": 32,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 488,
+    "clicks": 781,
+    "conversions": 23,
+    "revenue": 2760
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 508,
+    "clicks": 813,
+    "conversions": 28,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 528,
+    "clicks": 845,
+    "conversions": 34,
+    "revenue": 4080
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 548,
+    "clicks": 877,
+    "conversions": 39,
+    "revenue": 4680
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 558,
+    "clicks": 949,
+    "conversions": 28,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 578,
+    "clicks": 983,
+    "conversions": 34,
+    "revenue": 4590
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 598,
+    "clicks": 1017,
+    "conversions": 41,
+    "revenue": 5535
+  },
+  {
+    "date": "2026-01-04",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 618,
+    "clicks": 1051,
+    "conversions": 47,
+    "revenue": 6345
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 360,
+    "clicks": 504,
+    "conversions": 15,
+    "revenue": 1350
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 380,
+    "clicks": 532,
+    "conversions": 19,
+    "revenue": 1710
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 400,
+    "clicks": 560,
+    "conversions": 22,
+    "revenue": 1980
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 420,
+    "clicks": 588,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 430,
+    "clicks": 645,
+    "conversions": 19,
+    "revenue": 1995
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 450,
+    "clicks": 675,
+    "conversions": 24,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 470,
+    "clicks": 705,
+    "conversions": 28,
+    "revenue": 2940
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 490,
+    "clicks": 735,
+    "conversions": 33,
+    "revenue": 3465
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 500,
+    "clicks": 800,
+    "conversions": 24,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 520,
+    "clicks": 832,
+    "conversions": 29,
+    "revenue": 3480
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 540,
+    "clicks": 864,
+    "conversions": 35,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 560,
+    "clicks": 896,
+    "conversions": 40,
+    "revenue": 4800
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 570,
+    "clicks": 969,
+    "conversions": 29,
+    "revenue": 3915
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 590,
+    "clicks": 1003,
+    "conversions": 35,
+    "revenue": 4725
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 610,
+    "clicks": 1037,
+    "conversions": 41,
+    "revenue": 5535
+  },
+  {
+    "date": "2026-01-05",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 630,
+    "clicks": 1071,
+    "conversions": 48,
+    "revenue": 6480
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 372,
+    "clicks": 521,
+    "conversions": 16,
+    "revenue": 1440
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 392,
+    "clicks": 549,
+    "conversions": 19,
+    "revenue": 1710
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 412,
+    "clicks": 577,
+    "conversions": 23,
+    "revenue": 2070
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 432,
+    "clicks": 605,
+    "conversions": 27,
+    "revenue": 2430
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 442,
+    "clicks": 663,
+    "conversions": 20,
+    "revenue": 2100
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 462,
+    "clicks": 693,
+    "conversions": 24,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 482,
+    "clicks": 723,
+    "conversions": 29,
+    "revenue": 3045
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 502,
+    "clicks": 753,
+    "conversions": 34,
+    "revenue": 3570
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 512,
+    "clicks": 819,
+    "conversions": 25,
+    "revenue": 3000
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 532,
+    "clicks": 851,
+    "conversions": 30,
+    "revenue": 3600
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 552,
+    "clicks": 883,
+    "conversions": 35,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 572,
+    "clicks": 915,
+    "conversions": 41,
+    "revenue": 4920
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 582,
+    "clicks": 989,
+    "conversions": 30,
+    "revenue": 4050
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 602,
+    "clicks": 1023,
+    "conversions": 36,
+    "revenue": 4860
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 622,
+    "clicks": 1057,
+    "conversions": 42,
+    "revenue": 5670
+  },
+  {
+    "date": "2026-01-06",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 642,
+    "clicks": 1091,
+    "conversions": 49,
+    "revenue": 6615
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 384,
+    "clicks": 538,
+    "conversions": 16,
+    "revenue": 1440
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 404,
+    "clicks": 566,
+    "conversions": 20,
+    "revenue": 1800
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 424,
+    "clicks": 594,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 444,
+    "clicks": 622,
+    "conversions": 28,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 454,
+    "clicks": 681,
+    "conversions": 20,
+    "revenue": 2100
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 474,
+    "clicks": 711,
+    "conversions": 25,
+    "revenue": 2625
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 494,
+    "clicks": 741,
+    "conversions": 30,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 514,
+    "clicks": 771,
+    "conversions": 35,
+    "revenue": 3675
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 524,
+    "clicks": 838,
+    "conversions": 25,
+    "revenue": 3000
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 544,
+    "clicks": 870,
+    "conversions": 30,
+    "revenue": 3600
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 564,
+    "clicks": 902,
+    "conversions": 36,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 584,
+    "clicks": 934,
+    "conversions": 42,
+    "revenue": 5040
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 594,
+    "clicks": 1010,
+    "conversions": 30,
+    "revenue": 4050
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 614,
+    "clicks": 1044,
+    "conversions": 37,
+    "revenue": 4995
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 634,
+    "clicks": 1078,
+    "conversions": 43,
+    "revenue": 5805
+  },
+  {
+    "date": "2026-01-07",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 654,
+    "clicks": 1112,
+    "conversions": 50,
+    "revenue": 6750
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 396,
+    "clicks": 554,
+    "conversions": 17,
+    "revenue": 1530
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 416,
+    "clicks": 582,
+    "conversions": 20,
+    "revenue": 1800
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 436,
+    "clicks": 610,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 456,
+    "clicks": 638,
+    "conversions": 29,
+    "revenue": 2610
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 466,
+    "clicks": 699,
+    "conversions": 21,
+    "revenue": 2205
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 486,
+    "clicks": 729,
+    "conversions": 26,
+    "revenue": 2730
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 506,
+    "clicks": 759,
+    "conversions": 30,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 526,
+    "clicks": 789,
+    "conversions": 36,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 536,
+    "clicks": 858,
+    "conversions": 26,
+    "revenue": 3120
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 556,
+    "clicks": 890,
+    "conversions": 31,
+    "revenue": 3720
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 576,
+    "clicks": 922,
+    "conversions": 37,
+    "revenue": 4440
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 596,
+    "clicks": 954,
+    "conversions": 43,
+    "revenue": 5160
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 606,
+    "clicks": 1030,
+    "conversions": 31,
+    "revenue": 4185
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 626,
+    "clicks": 1064,
+    "conversions": 37,
+    "revenue": 4995
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 646,
+    "clicks": 1098,
+    "conversions": 44,
+    "revenue": 5940
+  },
+  {
+    "date": "2026-01-08",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 666,
+    "clicks": 1132,
+    "conversions": 51,
+    "revenue": 6885
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 408,
+    "clicks": 571,
+    "conversions": 17,
+    "revenue": 1530
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 428,
+    "clicks": 599,
+    "conversions": 21,
+    "revenue": 1890
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 448,
+    "clicks": 627,
+    "conversions": 25,
+    "revenue": 2250
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 468,
+    "clicks": 655,
+    "conversions": 29,
+    "revenue": 2610
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 478,
+    "clicks": 717,
+    "conversions": 22,
+    "revenue": 2310
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 498,
+    "clicks": 747,
+    "conversions": 26,
+    "revenue": 2730
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 518,
+    "clicks": 777,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 538,
+    "clicks": 807,
+    "conversions": 36,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 548,
+    "clicks": 877,
+    "conversions": 26,
+    "revenue": 3120
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 568,
+    "clicks": 909,
+    "conversions": 32,
+    "revenue": 3840
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 588,
+    "clicks": 941,
+    "conversions": 38,
+    "revenue": 4560
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 608,
+    "clicks": 973,
+    "conversions": 44,
+    "revenue": 5280
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 618,
+    "clicks": 1051,
+    "conversions": 32,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 638,
+    "clicks": 1085,
+    "conversions": 38,
+    "revenue": 5130
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 658,
+    "clicks": 1119,
+    "conversions": 45,
+    "revenue": 6075
+  },
+  {
+    "date": "2026-01-09",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 678,
+    "clicks": 1153,
+    "conversions": 52,
+    "revenue": 7020
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 420,
+    "clicks": 588,
+    "conversions": 18,
+    "revenue": 1620
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 440,
+    "clicks": 616,
+    "conversions": 22,
+    "revenue": 1980
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 460,
+    "clicks": 644,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 480,
+    "clicks": 672,
+    "conversions": 30,
+    "revenue": 2700
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 490,
+    "clicks": 735,
+    "conversions": 22,
+    "revenue": 2310
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 510,
+    "clicks": 765,
+    "conversions": 27,
+    "revenue": 2835
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 530,
+    "clicks": 795,
+    "conversions": 32,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 550,
+    "clicks": 825,
+    "conversions": 37,
+    "revenue": 3885
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 560,
+    "clicks": 896,
+    "conversions": 27,
+    "revenue": 3240
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 580,
+    "clicks": 928,
+    "conversions": 32,
+    "revenue": 3840
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 600,
+    "clicks": 960,
+    "conversions": 38,
+    "revenue": 4560
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 620,
+    "clicks": 992,
+    "conversions": 45,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 630,
+    "clicks": 1071,
+    "conversions": 32,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 650,
+    "clicks": 1105,
+    "conversions": 39,
+    "revenue": 5265
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 670,
+    "clicks": 1139,
+    "conversions": 46,
+    "revenue": 6210
+  },
+  {
+    "date": "2026-01-10",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 690,
+    "clicks": 1173,
+    "conversions": 53,
+    "revenue": 7155
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 432,
+    "clicks": 605,
+    "conversions": 18,
+    "revenue": 1620
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 452,
+    "clicks": 633,
+    "conversions": 22,
+    "revenue": 1980
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 472,
+    "clicks": 661,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 492,
+    "clicks": 689,
+    "conversions": 31,
+    "revenue": 2790
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 502,
+    "clicks": 753,
+    "conversions": 23,
+    "revenue": 2415
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 522,
+    "clicks": 783,
+    "conversions": 27,
+    "revenue": 2835
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 542,
+    "clicks": 813,
+    "conversions": 33,
+    "revenue": 3465
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 562,
+    "clicks": 843,
+    "conversions": 38,
+    "revenue": 3990
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 572,
+    "clicks": 915,
+    "conversions": 27,
+    "revenue": 3240
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 592,
+    "clicks": 947,
+    "conversions": 33,
+    "revenue": 3960
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 612,
+    "clicks": 979,
+    "conversions": 39,
+    "revenue": 4680
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 632,
+    "clicks": 1011,
+    "conversions": 45,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 642,
+    "clicks": 1091,
+    "conversions": 33,
+    "revenue": 4455
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 662,
+    "clicks": 1125,
+    "conversions": 39,
+    "revenue": 5265
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 682,
+    "clicks": 1159,
+    "conversions": 46,
+    "revenue": 6210
+  },
+  {
+    "date": "2026-01-11",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 702,
+    "clicks": 1193,
+    "conversions": 54,
+    "revenue": 7290
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 444,
+    "clicks": 622,
+    "conversions": 19,
+    "revenue": 1710
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 464,
+    "clicks": 650,
+    "conversions": 23,
+    "revenue": 2070
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 484,
+    "clicks": 678,
+    "conversions": 27,
+    "revenue": 2430
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 504,
+    "clicks": 706,
+    "conversions": 32,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 514,
+    "clicks": 771,
+    "conversions": 23,
+    "revenue": 2415
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 534,
+    "clicks": 801,
+    "conversions": 28,
+    "revenue": 2940
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 554,
+    "clicks": 831,
+    "conversions": 33,
+    "revenue": 3465
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 574,
+    "clicks": 861,
+    "conversions": 39,
+    "revenue": 4095
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 584,
+    "clicks": 934,
+    "conversions": 28,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 604,
+    "clicks": 966,
+    "conversions": 34,
+    "revenue": 4080
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 624,
+    "clicks": 998,
+    "conversions": 40,
+    "revenue": 4800
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 644,
+    "clicks": 1030,
+    "conversions": 46,
+    "revenue": 5520
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 654,
+    "clicks": 1112,
+    "conversions": 33,
+    "revenue": 4455
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 674,
+    "clicks": 1146,
+    "conversions": 40,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 694,
+    "clicks": 1180,
+    "conversions": 47,
+    "revenue": 6345
+  },
+  {
+    "date": "2026-01-12",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 714,
+    "clicks": 1214,
+    "conversions": 55,
+    "revenue": 7425
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 456,
+    "clicks": 638,
+    "conversions": 19,
+    "revenue": 1710
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 476,
+    "clicks": 666,
+    "conversions": 23,
+    "revenue": 2070
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 496,
+    "clicks": 694,
+    "conversions": 28,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 516,
+    "clicks": 722,
+    "conversions": 32,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 526,
+    "clicks": 789,
+    "conversions": 24,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 546,
+    "clicks": 819,
+    "conversions": 29,
+    "revenue": 3045
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 566,
+    "clicks": 849,
+    "conversions": 34,
+    "revenue": 3570
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 586,
+    "clicks": 879,
+    "conversions": 40,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 596,
+    "clicks": 954,
+    "conversions": 29,
+    "revenue": 3480
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 616,
+    "clicks": 986,
+    "conversions": 35,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 636,
+    "clicks": 1018,
+    "conversions": 41,
+    "revenue": 4920
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 656,
+    "clicks": 1050,
+    "conversions": 47,
+    "revenue": 5640
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 666,
+    "clicks": 1132,
+    "conversions": 34,
+    "revenue": 4590
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 686,
+    "clicks": 1166,
+    "conversions": 41,
+    "revenue": 5535
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 706,
+    "clicks": 1200,
+    "conversions": 48,
+    "revenue": 6480
+  },
+  {
+    "date": "2026-01-13",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 726,
+    "clicks": 1234,
+    "conversions": 56,
+    "revenue": 7560
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 468,
+    "clicks": 655,
+    "conversions": 20,
+    "revenue": 1800
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 488,
+    "clicks": 683,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 508,
+    "clicks": 711,
+    "conversions": 28,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 528,
+    "clicks": 739,
+    "conversions": 33,
+    "revenue": 2970
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 538,
+    "clicks": 807,
+    "conversions": 24,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 558,
+    "clicks": 837,
+    "conversions": 29,
+    "revenue": 3045
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 578,
+    "clicks": 867,
+    "conversions": 35,
+    "revenue": 3675
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 598,
+    "clicks": 897,
+    "conversions": 40,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 608,
+    "clicks": 973,
+    "conversions": 29,
+    "revenue": 3480
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 628,
+    "clicks": 1005,
+    "conversions": 35,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 648,
+    "clicks": 1037,
+    "conversions": 41,
+    "revenue": 4920
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 668,
+    "clicks": 1069,
+    "conversions": 48,
+    "revenue": 5760
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 678,
+    "clicks": 1153,
+    "conversions": 35,
+    "revenue": 4725
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 698,
+    "clicks": 1187,
+    "conversions": 42,
+    "revenue": 5670
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 718,
+    "clicks": 1221,
+    "conversions": 49,
+    "revenue": 6615
+  },
+  {
+    "date": "2026-01-14",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 738,
+    "clicks": 1255,
+    "conversions": 56,
+    "revenue": 7560
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 480,
+    "clicks": 672,
+    "conversions": 20,
+    "revenue": 1800
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 500,
+    "clicks": 700,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 520,
+    "clicks": 728,
+    "conversions": 29,
+    "revenue": 2610
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 540,
+    "clicks": 756,
+    "conversions": 34,
+    "revenue": 3060
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 550,
+    "clicks": 825,
+    "conversions": 25,
+    "revenue": 2625
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 570,
+    "clicks": 855,
+    "conversions": 30,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 590,
+    "clicks": 885,
+    "conversions": 35,
+    "revenue": 3675
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 610,
+    "clicks": 915,
+    "conversions": 41,
+    "revenue": 4305
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 620,
+    "clicks": 992,
+    "conversions": 30,
+    "revenue": 3600
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 640,
+    "clicks": 1024,
+    "conversions": 36,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 660,
+    "clicks": 1056,
+    "conversions": 42,
+    "revenue": 5040
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 680,
+    "clicks": 1088,
+    "conversions": 49,
+    "revenue": 5880
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 690,
+    "clicks": 1173,
+    "conversions": 35,
+    "revenue": 4725
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 710,
+    "clicks": 1207,
+    "conversions": 42,
+    "revenue": 5670
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 730,
+    "clicks": 1241,
+    "conversions": 50,
+    "revenue": 6750
+  },
+  {
+    "date": "2026-01-15",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 750,
+    "clicks": 1275,
+    "conversions": 57,
+    "revenue": 7695
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 492,
+    "clicks": 689,
+    "conversions": 21,
+    "revenue": 1890
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 512,
+    "clicks": 717,
+    "conversions": 25,
+    "revenue": 2250
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 532,
+    "clicks": 745,
+    "conversions": 30,
+    "revenue": 2700
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 552,
+    "clicks": 773,
+    "conversions": 35,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 562,
+    "clicks": 843,
+    "conversions": 25,
+    "revenue": 2625
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 582,
+    "clicks": 873,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 602,
+    "clicks": 903,
+    "conversions": 36,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 622,
+    "clicks": 933,
+    "conversions": 42,
+    "revenue": 4410
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 632,
+    "clicks": 1011,
+    "conversions": 30,
+    "revenue": 3600
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 652,
+    "clicks": 1043,
+    "conversions": 37,
+    "revenue": 4440
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 672,
+    "clicks": 1075,
+    "conversions": 43,
+    "revenue": 5160
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 692,
+    "clicks": 1107,
+    "conversions": 50,
+    "revenue": 6000
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 702,
+    "clicks": 1193,
+    "conversions": 36,
+    "revenue": 4860
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 722,
+    "clicks": 1227,
+    "conversions": 43,
+    "revenue": 5805
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 742,
+    "clicks": 1261,
+    "conversions": 50,
+    "revenue": 6750
+  },
+  {
+    "date": "2026-01-16",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 762,
+    "clicks": 1295,
+    "conversions": 58,
+    "revenue": 7830
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 504,
+    "clicks": 706,
+    "conversions": 21,
+    "revenue": 1890
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 524,
+    "clicks": 734,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 544,
+    "clicks": 762,
+    "conversions": 30,
+    "revenue": 2700
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 564,
+    "clicks": 790,
+    "conversions": 36,
+    "revenue": 3240
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 574,
+    "clicks": 861,
+    "conversions": 26,
+    "revenue": 2730
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 594,
+    "clicks": 891,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 614,
+    "clicks": 921,
+    "conversions": 37,
+    "revenue": 3885
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 634,
+    "clicks": 951,
+    "conversions": 43,
+    "revenue": 4515
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 644,
+    "clicks": 1030,
+    "conversions": 31,
+    "revenue": 3720
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 664,
+    "clicks": 1062,
+    "conversions": 37,
+    "revenue": 4440
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 684,
+    "clicks": 1094,
+    "conversions": 44,
+    "revenue": 5280
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 704,
+    "clicks": 1126,
+    "conversions": 51,
+    "revenue": 6120
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 714,
+    "clicks": 1214,
+    "conversions": 36,
+    "revenue": 4860
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 734,
+    "clicks": 1248,
+    "conversions": 44,
+    "revenue": 5940
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 754,
+    "clicks": 1282,
+    "conversions": 51,
+    "revenue": 6885
+  },
+  {
+    "date": "2026-01-17",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 774,
+    "clicks": 1316,
+    "conversions": 59,
+    "revenue": 7965
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 516,
+    "clicks": 722,
+    "conversions": 22,
+    "revenue": 1980
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 536,
+    "clicks": 750,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 556,
+    "clicks": 778,
+    "conversions": 31,
+    "revenue": 2790
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 576,
+    "clicks": 806,
+    "conversions": 36,
+    "revenue": 3240
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 586,
+    "clicks": 879,
+    "conversions": 26,
+    "revenue": 2730
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 606,
+    "clicks": 909,
+    "conversions": 32,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 626,
+    "clicks": 939,
+    "conversions": 38,
+    "revenue": 3990
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 646,
+    "clicks": 969,
+    "conversions": 44,
+    "revenue": 4620
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 656,
+    "clicks": 1050,
+    "conversions": 32,
+    "revenue": 3840
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 676,
+    "clicks": 1082,
+    "conversions": 38,
+    "revenue": 4560
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 696,
+    "clicks": 1114,
+    "conversions": 45,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 716,
+    "clicks": 1146,
+    "conversions": 52,
+    "revenue": 6240
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 726,
+    "clicks": 1234,
+    "conversions": 37,
+    "revenue": 4995
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 746,
+    "clicks": 1268,
+    "conversions": 44,
+    "revenue": 5940
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 766,
+    "clicks": 1302,
+    "conversions": 52,
+    "revenue": 7020
+  },
+  {
+    "date": "2026-01-18",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 786,
+    "clicks": 1336,
+    "conversions": 60,
+    "revenue": 8100
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 528,
+    "clicks": 739,
+    "conversions": 22,
+    "revenue": 1980
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 548,
+    "clicks": 767,
+    "conversions": 27,
+    "revenue": 2430
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 568,
+    "clicks": 795,
+    "conversions": 32,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 588,
+    "clicks": 823,
+    "conversions": 37,
+    "revenue": 3330
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 598,
+    "clicks": 897,
+    "conversions": 27,
+    "revenue": 2835
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 618,
+    "clicks": 927,
+    "conversions": 32,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 638,
+    "clicks": 957,
+    "conversions": 38,
+    "revenue": 3990
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 658,
+    "clicks": 987,
+    "conversions": 44,
+    "revenue": 4620
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 668,
+    "clicks": 1069,
+    "conversions": 32,
+    "revenue": 3840
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 688,
+    "clicks": 1101,
+    "conversions": 39,
+    "revenue": 4680
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 708,
+    "clicks": 1133,
+    "conversions": 45,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 728,
+    "clicks": 1165,
+    "conversions": 52,
+    "revenue": 6240
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 738,
+    "clicks": 1255,
+    "conversions": 38,
+    "revenue": 5130
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 758,
+    "clicks": 1289,
+    "conversions": 45,
+    "revenue": 6075
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 778,
+    "clicks": 1323,
+    "conversions": 53,
+    "revenue": 7155
+  },
+  {
+    "date": "2026-01-19",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 798,
+    "clicks": 1357,
+    "conversions": 61,
+    "revenue": 8235
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 540,
+    "clicks": 756,
+    "conversions": 23,
+    "revenue": 2070
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 560,
+    "clicks": 784,
+    "conversions": 27,
+    "revenue": 2430
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 580,
+    "clicks": 812,
+    "conversions": 32,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 600,
+    "clicks": 840,
+    "conversions": 38,
+    "revenue": 3420
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 610,
+    "clicks": 915,
+    "conversions": 27,
+    "revenue": 2835
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 630,
+    "clicks": 945,
+    "conversions": 33,
+    "revenue": 3465
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 650,
+    "clicks": 975,
+    "conversions": 39,
+    "revenue": 4095
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 670,
+    "clicks": 1005,
+    "conversions": 45,
+    "revenue": 4725
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 680,
+    "clicks": 1088,
+    "conversions": 33,
+    "revenue": 3960
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 700,
+    "clicks": 1120,
+    "conversions": 39,
+    "revenue": 4680
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 720,
+    "clicks": 1152,
+    "conversions": 46,
+    "revenue": 5520
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 740,
+    "clicks": 1184,
+    "conversions": 53,
+    "revenue": 6360
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 750,
+    "clicks": 1275,
+    "conversions": 38,
+    "revenue": 5130
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 770,
+    "clicks": 1309,
+    "conversions": 46,
+    "revenue": 6210
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 790,
+    "clicks": 1343,
+    "conversions": 54,
+    "revenue": 7290
+  },
+  {
+    "date": "2026-01-20",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 810,
+    "clicks": 1377,
+    "conversions": 62,
+    "revenue": 8370
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 552,
+    "clicks": 773,
+    "conversions": 23,
+    "revenue": 2070
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 572,
+    "clicks": 801,
+    "conversions": 28,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 592,
+    "clicks": 829,
+    "conversions": 33,
+    "revenue": 2970
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 612,
+    "clicks": 857,
+    "conversions": 39,
+    "revenue": 3510
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 622,
+    "clicks": 933,
+    "conversions": 28,
+    "revenue": 2940
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 642,
+    "clicks": 963,
+    "conversions": 34,
+    "revenue": 3570
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 662,
+    "clicks": 993,
+    "conversions": 40,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 682,
+    "clicks": 1023,
+    "conversions": 46,
+    "revenue": 4830
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 692,
+    "clicks": 1107,
+    "conversions": 33,
+    "revenue": 3960
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 712,
+    "clicks": 1139,
+    "conversions": 40,
+    "revenue": 4800
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 732,
+    "clicks": 1171,
+    "conversions": 47,
+    "revenue": 5640
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 752,
+    "clicks": 1203,
+    "conversions": 54,
+    "revenue": 6480
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 762,
+    "clicks": 1295,
+    "conversions": 39,
+    "revenue": 5265
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 782,
+    "clicks": 1329,
+    "conversions": 47,
+    "revenue": 6345
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 802,
+    "clicks": 1363,
+    "conversions": 55,
+    "revenue": 7425
+  },
+  {
+    "date": "2026-01-21",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 822,
+    "clicks": 1397,
+    "conversions": 63,
+    "revenue": 8505
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 564,
+    "clicks": 790,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 584,
+    "clicks": 818,
+    "conversions": 29,
+    "revenue": 2610
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 604,
+    "clicks": 846,
+    "conversions": 34,
+    "revenue": 3060
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 624,
+    "clicks": 874,
+    "conversions": 39,
+    "revenue": 3510
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 634,
+    "clicks": 951,
+    "conversions": 29,
+    "revenue": 3045
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 654,
+    "clicks": 981,
+    "conversions": 34,
+    "revenue": 3570
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 674,
+    "clicks": 1011,
+    "conversions": 40,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 694,
+    "clicks": 1041,
+    "conversions": 47,
+    "revenue": 4935
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 704,
+    "clicks": 1126,
+    "conversions": 34,
+    "revenue": 4080
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 724,
+    "clicks": 1158,
+    "conversions": 41,
+    "revenue": 4920
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 744,
+    "clicks": 1190,
+    "conversions": 48,
+    "revenue": 5760
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 764,
+    "clicks": 1222,
+    "conversions": 55,
+    "revenue": 6600
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 774,
+    "clicks": 1316,
+    "conversions": 39,
+    "revenue": 5265
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 794,
+    "clicks": 1350,
+    "conversions": 47,
+    "revenue": 6345
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 814,
+    "clicks": 1384,
+    "conversions": 55,
+    "revenue": 7425
+  },
+  {
+    "date": "2026-01-22",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 834,
+    "clicks": 1418,
+    "conversions": 64,
+    "revenue": 8640
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 576,
+    "clicks": 806,
+    "conversions": 24,
+    "revenue": 2160
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 596,
+    "clicks": 834,
+    "conversions": 29,
+    "revenue": 2610
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 616,
+    "clicks": 862,
+    "conversions": 34,
+    "revenue": 3060
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 636,
+    "clicks": 890,
+    "conversions": 40,
+    "revenue": 3600
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 646,
+    "clicks": 969,
+    "conversions": 29,
+    "revenue": 3045
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 666,
+    "clicks": 999,
+    "conversions": 35,
+    "revenue": 3675
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 686,
+    "clicks": 1029,
+    "conversions": 41,
+    "revenue": 4305
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 706,
+    "clicks": 1059,
+    "conversions": 48,
+    "revenue": 5040
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 716,
+    "clicks": 1146,
+    "conversions": 34,
+    "revenue": 4080
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 736,
+    "clicks": 1178,
+    "conversions": 41,
+    "revenue": 4920
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 756,
+    "clicks": 1210,
+    "conversions": 48,
+    "revenue": 5760
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 776,
+    "clicks": 1242,
+    "conversions": 56,
+    "revenue": 6720
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 786,
+    "clicks": 1336,
+    "conversions": 40,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 806,
+    "clicks": 1370,
+    "conversions": 48,
+    "revenue": 6480
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 826,
+    "clicks": 1404,
+    "conversions": 56,
+    "revenue": 7560
+  },
+  {
+    "date": "2026-01-23",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 846,
+    "clicks": 1438,
+    "conversions": 65,
+    "revenue": 8775
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 588,
+    "clicks": 823,
+    "conversions": 25,
+    "revenue": 2250
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 608,
+    "clicks": 851,
+    "conversions": 30,
+    "revenue": 2700
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 628,
+    "clicks": 879,
+    "conversions": 35,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 648,
+    "clicks": 907,
+    "conversions": 41,
+    "revenue": 3690
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 658,
+    "clicks": 987,
+    "conversions": 30,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 678,
+    "clicks": 1017,
+    "conversions": 36,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 698,
+    "clicks": 1047,
+    "conversions": 42,
+    "revenue": 4410
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 718,
+    "clicks": 1077,
+    "conversions": 48,
+    "revenue": 5040
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 728,
+    "clicks": 1165,
+    "conversions": 35,
+    "revenue": 4200
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 748,
+    "clicks": 1197,
+    "conversions": 42,
+    "revenue": 5040
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 768,
+    "clicks": 1229,
+    "conversions": 49,
+    "revenue": 5880
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 788,
+    "clicks": 1261,
+    "conversions": 57,
+    "revenue": 6840
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 798,
+    "clicks": 1357,
+    "conversions": 41,
+    "revenue": 5535
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 818,
+    "clicks": 1391,
+    "conversions": 49,
+    "revenue": 6615
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 838,
+    "clicks": 1425,
+    "conversions": 57,
+    "revenue": 7695
+  },
+  {
+    "date": "2026-01-24",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 858,
+    "clicks": 1459,
+    "conversions": 66,
+    "revenue": 8910
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 600,
+    "clicks": 840,
+    "conversions": 25,
+    "revenue": 2250
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 620,
+    "clicks": 868,
+    "conversions": 30,
+    "revenue": 2700
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 640,
+    "clicks": 896,
+    "conversions": 36,
+    "revenue": 3240
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 660,
+    "clicks": 924,
+    "conversions": 42,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 670,
+    "clicks": 1005,
+    "conversions": 30,
+    "revenue": 3150
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 690,
+    "clicks": 1035,
+    "conversions": 36,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 710,
+    "clicks": 1065,
+    "conversions": 43,
+    "revenue": 4515
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 730,
+    "clicks": 1095,
+    "conversions": 49,
+    "revenue": 5145
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 740,
+    "clicks": 1184,
+    "conversions": 36,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 760,
+    "clicks": 1216,
+    "conversions": 43,
+    "revenue": 5160
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 780,
+    "clicks": 1248,
+    "conversions": 50,
+    "revenue": 6000
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 800,
+    "clicks": 1280,
+    "conversions": 58,
+    "revenue": 6960
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 810,
+    "clicks": 1377,
+    "conversions": 41,
+    "revenue": 5535
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 830,
+    "clicks": 1411,
+    "conversions": 49,
+    "revenue": 6615
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 850,
+    "clicks": 1445,
+    "conversions": 58,
+    "revenue": 7830
+  },
+  {
+    "date": "2026-01-25",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 870,
+    "clicks": 1479,
+    "conversions": 67,
+    "revenue": 9045
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 612,
+    "clicks": 857,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 632,
+    "clicks": 885,
+    "conversions": 31,
+    "revenue": 2790
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 652,
+    "clicks": 913,
+    "conversions": 37,
+    "revenue": 3330
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 672,
+    "clicks": 941,
+    "conversions": 42,
+    "revenue": 3780
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 682,
+    "clicks": 1023,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 702,
+    "clicks": 1053,
+    "conversions": 37,
+    "revenue": 3885
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 722,
+    "clicks": 1083,
+    "conversions": 43,
+    "revenue": 4515
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 742,
+    "clicks": 1113,
+    "conversions": 50,
+    "revenue": 5250
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 752,
+    "clicks": 1203,
+    "conversions": 36,
+    "revenue": 4320
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 772,
+    "clicks": 1235,
+    "conversions": 43,
+    "revenue": 5160
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 792,
+    "clicks": 1267,
+    "conversions": 51,
+    "revenue": 6120
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 812,
+    "clicks": 1299,
+    "conversions": 58,
+    "revenue": 6960
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 822,
+    "clicks": 1397,
+    "conversions": 42,
+    "revenue": 5670
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 842,
+    "clicks": 1431,
+    "conversions": 50,
+    "revenue": 6750
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 862,
+    "clicks": 1465,
+    "conversions": 59,
+    "revenue": 7965
+  },
+  {
+    "date": "2026-01-26",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 882,
+    "clicks": 1499,
+    "conversions": 67,
+    "revenue": 9045
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 624,
+    "clicks": 874,
+    "conversions": 26,
+    "revenue": 2340
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 644,
+    "clicks": 902,
+    "conversions": 32,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 664,
+    "clicks": 930,
+    "conversions": 37,
+    "revenue": 3330
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 684,
+    "clicks": 958,
+    "conversions": 43,
+    "revenue": 3870
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 694,
+    "clicks": 1041,
+    "conversions": 31,
+    "revenue": 3255
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 714,
+    "clicks": 1071,
+    "conversions": 37,
+    "revenue": 3885
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 734,
+    "clicks": 1101,
+    "conversions": 44,
+    "revenue": 4620
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 754,
+    "clicks": 1131,
+    "conversions": 51,
+    "revenue": 5355
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 764,
+    "clicks": 1222,
+    "conversions": 37,
+    "revenue": 4440
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 784,
+    "clicks": 1254,
+    "conversions": 44,
+    "revenue": 5280
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 804,
+    "clicks": 1286,
+    "conversions": 51,
+    "revenue": 6120
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 824,
+    "clicks": 1318,
+    "conversions": 59,
+    "revenue": 7080
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 834,
+    "clicks": 1418,
+    "conversions": 43,
+    "revenue": 5805
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 854,
+    "clicks": 1452,
+    "conversions": 51,
+    "revenue": 6885
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 874,
+    "clicks": 1486,
+    "conversions": 59,
+    "revenue": 7965
+  },
+  {
+    "date": "2026-01-27",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 894,
+    "clicks": 1520,
+    "conversions": 68,
+    "revenue": 9180
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 636,
+    "clicks": 890,
+    "conversions": 27,
+    "revenue": 2430
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 656,
+    "clicks": 918,
+    "conversions": 32,
+    "revenue": 2880
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 676,
+    "clicks": 946,
+    "conversions": 38,
+    "revenue": 3420
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 696,
+    "clicks": 974,
+    "conversions": 44,
+    "revenue": 3960
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 706,
+    "clicks": 1059,
+    "conversions": 32,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 726,
+    "clicks": 1089,
+    "conversions": 38,
+    "revenue": 3990
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 746,
+    "clicks": 1119,
+    "conversions": 45,
+    "revenue": 4725
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 766,
+    "clicks": 1149,
+    "conversions": 52,
+    "revenue": 5460
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 776,
+    "clicks": 1242,
+    "conversions": 37,
+    "revenue": 4440
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 796,
+    "clicks": 1274,
+    "conversions": 45,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 816,
+    "clicks": 1306,
+    "conversions": 52,
+    "revenue": 6240
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 836,
+    "clicks": 1338,
+    "conversions": 60,
+    "revenue": 7200
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 846,
+    "clicks": 1438,
+    "conversions": 43,
+    "revenue": 5805
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 866,
+    "clicks": 1472,
+    "conversions": 52,
+    "revenue": 7020
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 886,
+    "clicks": 1506,
+    "conversions": 60,
+    "revenue": 8100
+  },
+  {
+    "date": "2026-01-28",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 906,
+    "clicks": 1540,
+    "conversions": 69,
+    "revenue": 9315
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 648,
+    "clicks": 907,
+    "conversions": 27,
+    "revenue": 2430
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 668,
+    "clicks": 935,
+    "conversions": 33,
+    "revenue": 2970
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 688,
+    "clicks": 963,
+    "conversions": 39,
+    "revenue": 3510
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 708,
+    "clicks": 991,
+    "conversions": 45,
+    "revenue": 4050
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 718,
+    "clicks": 1077,
+    "conversions": 32,
+    "revenue": 3360
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 738,
+    "clicks": 1107,
+    "conversions": 39,
+    "revenue": 4095
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 758,
+    "clicks": 1137,
+    "conversions": 45,
+    "revenue": 4725
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 778,
+    "clicks": 1167,
+    "conversions": 53,
+    "revenue": 5565
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 788,
+    "clicks": 1261,
+    "conversions": 38,
+    "revenue": 4560
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 808,
+    "clicks": 1293,
+    "conversions": 45,
+    "revenue": 5400
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 828,
+    "clicks": 1325,
+    "conversions": 53,
+    "revenue": 6360
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 848,
+    "clicks": 1357,
+    "conversions": 61,
+    "revenue": 7320
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 858,
+    "clicks": 1459,
+    "conversions": 44,
+    "revenue": 5940
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 878,
+    "clicks": 1493,
+    "conversions": 52,
+    "revenue": 7020
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 898,
+    "clicks": 1527,
+    "conversions": 61,
+    "revenue": 8235
+  },
+  {
+    "date": "2026-01-29",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 918,
+    "clicks": 1561,
+    "conversions": 70,
+    "revenue": 9450
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Search",
+    "campaign": "Prospecting",
+    "spend": 660,
+    "clicks": 924,
+    "conversions": 28,
+    "revenue": 2520
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Search",
+    "campaign": "Retargeting",
+    "spend": 680,
+    "clicks": 952,
+    "conversions": 33,
+    "revenue": 2970
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Search",
+    "campaign": "Brand",
+    "spend": 700,
+    "clicks": 980,
+    "conversions": 39,
+    "revenue": 3510
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Search",
+    "campaign": "Lifecycle",
+    "spend": 720,
+    "clicks": 1008,
+    "conversions": 45,
+    "revenue": 4050
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Social",
+    "campaign": "Prospecting",
+    "spend": 730,
+    "clicks": 1095,
+    "conversions": 33,
+    "revenue": 3465
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Social",
+    "campaign": "Retargeting",
+    "spend": 750,
+    "clicks": 1125,
+    "conversions": 39,
+    "revenue": 4095
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Social",
+    "campaign": "Brand",
+    "spend": 770,
+    "clicks": 1155,
+    "conversions": 46,
+    "revenue": 4830
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Social",
+    "campaign": "Lifecycle",
+    "spend": 790,
+    "clicks": 1185,
+    "conversions": 53,
+    "revenue": 5565
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Display",
+    "campaign": "Prospecting",
+    "spend": 800,
+    "clicks": 1280,
+    "conversions": 38,
+    "revenue": 4560
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Display",
+    "campaign": "Retargeting",
+    "spend": 820,
+    "clicks": 1312,
+    "conversions": 46,
+    "revenue": 5520
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Display",
+    "campaign": "Brand",
+    "spend": 840,
+    "clicks": 1344,
+    "conversions": 54,
+    "revenue": 6480
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Display",
+    "campaign": "Lifecycle",
+    "spend": 860,
+    "clicks": 1376,
+    "conversions": 62,
+    "revenue": 7440
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Email",
+    "campaign": "Prospecting",
+    "spend": 870,
+    "clicks": 1479,
+    "conversions": 44,
+    "revenue": 5940
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Email",
+    "campaign": "Retargeting",
+    "spend": 890,
+    "clicks": 1513,
+    "conversions": 53,
+    "revenue": 7155
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Email",
+    "campaign": "Brand",
+    "spend": 910,
+    "clicks": 1547,
+    "conversions": 62,
+    "revenue": 8370
+  },
+  {
+    "date": "2026-01-30",
+    "channel": "Email",
+    "campaign": "Lifecycle",
+    "spend": 930,
+    "clicks": 1581,
+    "conversions": 71,
+    "revenue": 9585
+  }
+]
