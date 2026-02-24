@@ -1,0 +1,132 @@
+[
+  {
+    "week_num": 1,
+    "week_start": "2025-12-11",
+    "week_end": "2025-12-17",
+    "narrative_summary": "Week 1: Website revamped. Baseline sessions initializing. Spend $5,753, sessions 16,436, conversions 222.",
+    "key_activities": "Website",
+    "spend": 5753,
+    "sessions": 16436,
+    "conversions": 222
+  },
+  {
+    "week_num": 2,
+    "week_start": "2025-12-18",
+    "week_end": "2025-12-24",
+    "narrative_summary": "Week 2: Organic seeding and community momentum building. Spend $8,310, sessions 18,068, conversions 306.",
+    "key_activities": "Content, Community",
+    "spend": 8310,
+    "sessions": 18068,
+    "conversions": 306
+  },
+  {
+    "week_num": 3,
+    "week_start": "2025-12-25",
+    "week_end": "2025-12-31",
+    "narrative_summary": "Week 3: Partner announcement expanded top-of-funnel reach. Spend $10,867, sessions 20,920, conversions 389.",
+    "key_activities": "Content, Community, Partnerships",
+    "spend": 10867,
+    "sessions": 20920,
+    "conversions": 389
+  },
+  {
+    "week_num": 4,
+    "week_start": "2026-01-01",
+    "week_end": "2026-01-07",
+    "narrative_summary": "Week 4: Organic seeding and community momentum building. Spend $13,422, sessions 21,973, conversions 474.",
+    "key_activities": "Content, Community",
+    "spend": 13422,
+    "sessions": 21973,
+    "conversions": 474
+  },
+  {
+    "week_num": 5,
+    "week_start": "2026-01-08",
+    "week_end": "2026-01-14",
+    "narrative_summary": "Week 5: Paid engine optimization and readiness gating progressed. Spend $51,243, sessions 56,213, conversions 1,400.",
+    "key_activities": "Content, Community, Paid, KOL",
+    "spend": 51243,
+    "sessions": 56213,
+    "conversions": 1400
+  },
+  {
+    "week_num": 6,
+    "week_start": "2026-01-15",
+    "week_end": "2026-01-21",
+    "narrative_summary": "Week 6: Paid engine optimization and readiness gating progressed. Spend $69,000, sessions 70,365, conversions 1,849.",
+    "key_activities": "Paid",
+    "spend": 69000,
+    "sessions": 70365,
+    "conversions": 1849
+  },
+  {
+    "week_num": 7,
+    "week_start": "2026-01-22",
+    "week_end": "2026-01-28",
+    "narrative_summary": "Week 7: Paid engine optimization and readiness gating progressed. Spend $71,556, sessions 73,517, conversions 1,933.",
+    "key_activities": "Paid, KOL",
+    "spend": 71556,
+    "sessions": 73517,
+    "conversions": 1933
+  },
+  {
+    "week_num": 8,
+    "week_start": "2026-01-29",
+    "week_end": "2026-02-04",
+    "narrative_summary": "Week 8: Paid engine optimization and readiness gating progressed. Spend $74,112, sessions 74,269, conversions 2,015.",
+    "key_activities": "Paid",
+    "spend": 74112,
+    "sessions": 74269,
+    "conversions": 2015
+  },
+  {
+    "week_num": 9,
+    "week_start": "2026-02-05",
+    "week_end": "2026-02-11",
+    "narrative_summary": "Week 9: Paid engine optimization and readiness gating progressed. Spend $76,669, sessions 77,422, conversions 2,101.",
+    "key_activities": "Paid, KOL",
+    "spend": 76669,
+    "sessions": 77422,
+    "conversions": 2101
+  },
+  {
+    "week_num": 10,
+    "week_start": "2026-02-12",
+    "week_end": "2026-02-18",
+    "narrative_summary": "Week 10: Influencer traffic spike delivered high volume with mixed quality. Spend $79,226, sessions 90,674, conversions 1,889.",
+    "key_activities": "Paid, Influencer, Measurement",
+    "spend": 79226,
+    "sessions": 90674,
+    "conversions": 1889
+  },
+  {
+    "week_num": 11,
+    "week_start": "2026-02-19",
+    "week_end": "2026-02-25",
+    "narrative_summary": "Week 11: Paid engine optimization and readiness gating progressed. Spend $81,781, sessions 80,126, conversions 2,267.",
+    "key_activities": "Paid",
+    "spend": 81781,
+    "sessions": 80126,
+    "conversions": 2267
+  },
+  {
+    "week_num": 12,
+    "week_start": "2026-02-26",
+    "week_end": "2026-03-04",
+    "narrative_summary": "Week 12: Experimentation window active with measurable conversion-rate lift. Spend $84,338, sessions 82,078, conversions 2,726.",
+    "key_activities": "Paid, Experiment",
+    "spend": 84338,
+    "sessions": 82078,
+    "conversions": 2726
+  },
+  {
+    "week_num": 13,
+    "week_start": "2026-03-05",
+    "week_end": "2026-03-10",
+    "narrative_summary": "Week 13: Experimentation window active with measurable conversion-rate lift. Spend $73,645, sessions 71,250, conversions 2,392.",
+    "key_activities": "Paid, Experiment",
+    "spend": 73645,
+    "sessions": 71250,
+    "conversions": 2392
+  }
+]

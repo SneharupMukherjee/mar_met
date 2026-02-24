@@ -20,7 +20,7 @@ function generateWorkbook(options) {
   var ss = SpreadsheetApp.create(workbookName);
   normalizeTabs(ss, tabNames);
 
-  var startOffset = -55;
+  var startOffset = -75;
   var endOffset = 14;
   
   // Storage for multi-grain rows
@@ -42,8 +42,11 @@ function generateWorkbook(options) {
     var recoveryBoost = (d >= -5 && d <= -3) ? 1.18 : 1.0;
     var influencerSpike = (d === -12);
     var googlePressure = (d >= -18 && d <= -8);
-    var fatigue = Math.max(0, Math.min(1, (d + 45) / 59));
+    var fatigue = Math.max(0, Math.min(1, (d + 75) / 89));
     var experimentLift = (d >= 2 && d <= 14) ? 1.16 : 1.0;
+    var websiteRevamp = (d === -75);
+    var partnerAnnouncement = (d === -60);
+    var kolCampaign = (d === -30 || d === -44 || d === -16);
 
     // META ADS (3 Campaigns: Prospecting Video, Prospecting Static, Retargeting)
     var metaCamps = [
@@ -149,6 +152,7 @@ function generateWorkbook(options) {
     var channels = ['Meta', 'Google', 'Organic', 'Influencer'];
     var funnelTotalRevenueDay = 0;
     var funnelTotalConvsDay = 0;
+    var funnelTotalSessionsDay = 0;
 
     channels.forEach(function(ch) {
       var baseSess = 0;
@@ -178,6 +182,7 @@ function generateWorkbook(options) {
 
       funnelTotalRevenueDay += revenue;
       funnelTotalConvsDay += purchase_count;
+      funnelTotalSessionsDay += sessions;
 
       funnelRows.push([
         dateStr, ch,
@@ -215,11 +220,19 @@ function generateWorkbook(options) {
     kpiSummary.push({
       dateStr: dateStr,
       spend: totalMetaSpendDay + totalGoogleSpendDay,
+      sessions: funnelTotalSessionsDay,
       conversions: funnelTotalConvsDay,
       revenue: funnelTotalRevenueDay,
       platRoas: platRoas,
       modRoas: modRoas,
-      wc_rate: 0.2 * experimentLift // approx proxy calculation for dashboard mockup
+      wc_rate: 0.2 * experimentLift, // approx proxy calculation for dashboard mockup
+      offset: d,
+      website_revamp: websiteRevamp,
+      partner_announcement: partnerAnnouncement,
+      kol_campaign: kolCampaign,
+      influencer_spike: influencerSpike,
+      tracking_break: trackingBreak,
+      experiment_active: d >= 2 && d <= 14
     });
   }
 
@@ -259,7 +272,7 @@ function generateWorkbook(options) {
   writeAttributionTab(ss.getSheetByName('ATTRIBUTION_MODELS'), kpiSummary);
   writeKpiDashboard(ss.getSheetByName('KPI_DASHBOARD'), kpiSummary);
   writeInsights(ss.getSheetByName('INSIGHTS'));
-  writeWeeklyReports(ss.getSheetByName('WEEKLY_REPORTS'));
+  writeWeeklyReports(ss.getSheetByName('WEEKLY_REPORTS'), kpiSummary);
 
   return ss.getUrl();
 }
@@ -351,6 +364,79 @@ function writeInsights(sheet) {
   writeArray(sheet, [['date_range', 'insight_title', 'observation', 'likely_causes', 'recommended_actions', 'confidence', 'cited_metrics']]);
 }
 
-function writeWeeklyReports(sheet) {
-  writeArray(sheet, [['week_start', 'week_end', 'exec_summary', 'wins', 'issues', 'actions_next_week', 'budget_reallocation_suggestion', 'risks_and_mitigations', 'cited_metrics']]);
+function writeWeeklyReports(sheet, summary) {
+  var rows = [['week_num', 'week_start', 'week_end', 'narrative_summary', 'key_activities', 'spend', 'sessions', 'conversions']];
+  if (!summary || summary.length === 0) {
+    writeArray(sheet, rows);
+    return;
+  }
+
+  var sorted = summary.slice().sort(function(a, b) { return a.dateStr.localeCompare(b.dateStr); });
+  var firstOffset = sorted[0].offset;
+  var weekMap = {};
+
+  sorted.forEach(function(day) {
+    var weekNum = Math.floor((day.offset - firstOffset) / 7) + 1;
+    if (!weekMap[weekNum]) {
+      weekMap[weekNum] = {
+        week_num: weekNum,
+        week_start: day.dateStr,
+        week_end: day.dateStr,
+        spend: 0,
+        sessions: 0,
+        conversions: 0,
+        events: {}
+      };
+    }
+    var bucket = weekMap[weekNum];
+    bucket.week_end = day.dateStr;
+    bucket.spend += day.spend;
+    bucket.sessions += day.sessions || 0;
+    bucket.conversions += day.conversions;
+
+    if (day.website_revamp) bucket.events.Website = true;
+    if (day.partner_announcement) bucket.events.Partnerships = true;
+    if (day.kol_campaign) bucket.events.KOL = true;
+    if (day.offset >= -67 && day.offset <= -46) {
+      bucket.events.Content = true;
+      bucket.events.Community = true;
+    }
+    if (day.offset >= -45) bucket.events.Paid = true;
+    if (day.influencer_spike) bucket.events.Influencer = true;
+    if (day.tracking_break) bucket.events.Measurement = true;
+    if (day.experiment_active) bucket.events.Experiment = true;
+  });
+
+  Object.keys(weekMap)
+    .map(function(k) { return weekMap[k]; })
+    .sort(function(a, b) { return a.week_num - b.week_num; })
+    .forEach(function(w) {
+      var activities = Object.keys(w.events);
+      var lead = '';
+      if (w.events.Website) lead = 'Website revamped. Baseline sessions initializing.';
+      else if (w.events.Partnerships) lead = 'Partner announcement expanded top-of-funnel reach.';
+      else if (w.events.Influencer) lead = 'Influencer traffic spike delivered high volume with mixed quality.';
+      else if (w.events.Measurement) lead = 'Tracking break detected and stabilized via war-room response.';
+      else if (w.events.Experiment) lead = 'Experimentation window active with conversion-rate uplift.';
+      else if (w.week_num <= 4) lead = 'Organic seeding and community momentum building.';
+      else lead = 'Paid engine optimization and readiness gating progressed.';
+
+      var narrative = 'Week ' + w.week_num + ': ' + lead +
+        ' Spend $' + Math.round(w.spend).toLocaleString() +
+        ', sessions ' + Math.round(w.sessions).toLocaleString() +
+        ', conversions ' + Math.round(w.conversions).toLocaleString() + '.';
+
+      rows.push([
+        w.week_num,
+        w.week_start,
+        w.week_end,
+        narrative,
+        activities.join(', '),
+        Number(w.spend.toFixed(2)),
+        Math.round(w.sessions),
+        Math.round(w.conversions)
+      ]);
+    });
+
+  writeArray(sheet, rows);
 }

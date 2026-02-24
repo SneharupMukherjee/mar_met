@@ -18,8 +18,11 @@ This repo provides a deterministic Google Apps Script generator that creates a s
 
 ## What it simulates
 
-The generated workbook contains **70 days** of synthetic data from **T-55 through T+14** (fully covering the requested T-45..T+14 storyline window), including:
+The generated workbook contains **90 days** of synthetic data from **T-75 through T+14**, including:
 
+- website revamp baseline initialization (`T-75`),
+- organic/content/community seeding across early pre-launch weeks,
+- partner announcement lift (`T-60`) and periodic KOL campaigns (including `T-30`),
 - weekend seasonality,
 - Meta creative fatigue (frequency rises, CTR decays, CPA worsens),
 - Google non-brand auction pressure (`T-18..T-8`) with higher CPC and weaker efficiency,

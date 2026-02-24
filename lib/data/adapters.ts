@@ -32,8 +32,8 @@ export async function fromCsvEndpoint(url: string): Promise<MetricRow[]> {
   return parseCsv(await response.text());
 }
 
-export async function fromJsonEndpoint(url: string): Promise<MetricRow[]> {
+export async function fromJsonEndpoint<T = MetricRow>(url: string): Promise<T[]> {
   const response = await fetch(url, { cache: 'no-store' });
   if (!response.ok) throw new Error(`JSON fetch failed: ${response.status}`);
-  return (await response.json()) as MetricRow[];
+  return (await response.json()) as T[];
 }

@@ -8,6 +8,7 @@ export const dashboardRoutes = [
   { href: '/search-diagnostics', label: 'Search Diagnostics' },
   { href: '/attribution-view', label: 'Attribution View' },
   { href: '/experiments-learning', label: 'Experiments & Learning' },
+  { href: '/weekly-reports', label: 'Weekly Reports' },
   { href: '/measurement-pipeline', label: 'Measurement & Pipeline' },
   { href: '/case-study', label: 'Case Study' }
 ] as const;
